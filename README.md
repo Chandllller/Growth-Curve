@@ -10,3 +10,5 @@ Then I could plot the data with the ggplot2 in R with the display like
 Hooooops!
 ![image](https://github.com/Chandllller/Growth-Curve/blob/master/R53-9.png)
 
+## 20180920 Update
+Add ggsave output setting 
