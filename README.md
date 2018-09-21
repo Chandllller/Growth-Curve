@@ -12,6 +12,5 @@ Hooooops!
 
 ## 20180920 Update
 Add ggsave output setting 
-、、、setwd('Desktop/R Picture')
-ggsave(filename="Enzalutamide on R53-9 Line.png",width=15,height=9,units="cm", dpi = 1000)
-、、、
+```setwd('Desktop/R Picture')
+ggsave(filename="Enzalutamide on R53-9 Line.png",width=15,height=9,units="cm", dpi = 1000)```
